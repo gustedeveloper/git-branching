@@ -1,0 +1,4 @@
+.DS_Store
+secrets.txt
+
+# *. seguido de la extensión de los archivos que queremos que git ignore
